@@ -35,3 +35,14 @@ As stated during the lecture and seminars, this is your work for the upcoming we
 Also - don't forget to refresh your memory about matrix operations and perceptron's architecture.
 
 Good luck
+
+## Week 3
+Buckle up! 👍
+
+After successful feed forward, the only logical step is to implement backward feed.
+To make the task easier, we have implemented all feed forward functions for you according to the lecture with very similar variables naming. 
+Apply chain rule and implement backward propagation for your network. 
+The backward pass also requires the computation and derivation of loss function. 
+... So remember the tears of years past of your studies and derive, multiply matrices (with correct operation) and transpose if necessary.
+
+GLHF
