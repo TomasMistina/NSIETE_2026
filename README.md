@@ -22,7 +22,7 @@ If you know all of that already, well ...then, congratulations ;)
 
 But still... the attendance of the seminars is mandatory.
 
-## Week 3
+## Week 2
 All hands on board!
 
 This week, you are going to implement a simple multilayer perceptron with its feed forward function.
@@ -36,7 +36,7 @@ Also - don't forget to refresh your memory about matrix operations and perceptro
 
 Good luck
 
-## Week 4
+## Week 3
 Buckle up! 👍
 
 After successful feed forward, the only logical step is to implement backward feed.
@@ -47,7 +47,7 @@ The backward pass also requires the computation and derivation of loss function.
 
 GLHF
 
-## Week 5
+## Week 4
 
 The time we all have been waiting for is here!
 
