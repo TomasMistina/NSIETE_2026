@@ -1,6 +1,6 @@
-# NSIETE @ FIIT
+# ZNEUS @ FIIT
 
-This repository contains supporting materials for the subject NSIETE (@ FIIT STU).
+This repository contains supporting materials for the subject ZNEUS (@ FIIT STU).
 
 It is a very important repository, you will find here the assignments prepared for you, for the first 4 weeks of the semester.
 
@@ -22,7 +22,7 @@ If you know all of that already, well ...then, congratulations ;)
 
 But still... the attendance of the seminars is mandatory.
 
-## Week 2
+## Week 3
 All hands on board!
 
 This week, you are going to implement a simple multilayer perceptron with its feed forward function.
@@ -36,7 +36,7 @@ Also - don't forget to refresh your memory about matrix operations and perceptro
 
 Good luck
 
-## Week 3
+## Week 4
 Buckle up! 👍
 
 After successful feed forward, the only logical step is to implement backward feed.
@@ -46,3 +46,11 @@ The backward pass also requires the computation and derivation of loss function.
 ... So remember the tears of years past of your studies and derive, multiply matrices (with correct operation) and transpose if necessary.
 
 GLHF
+
+## Week 5
+
+The time we all have been waiting for is here!
+
+Let's do some training magic 🧙‍♂️
+
+On this week's task, you will finally make your network able to train and to optimize its parameters. All is prepared, you just have to finish the algorithms of 3 optimizers (and do some tracking and visualizations).
